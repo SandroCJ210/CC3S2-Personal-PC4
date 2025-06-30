@@ -1,3 +1,6 @@
 [submodule "aux-repo"]
 	path = aux-repo
 	url = https://github.com/SandroCJ210/CC3S2-Personal-PC4.git
+[submodule "Aux-Repo-PC4"]
+	path = Aux-Repo-PC4
+	url = https://github.com/SandroCJ210/Aux-Repo-PC4.git
